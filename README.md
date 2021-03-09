@@ -2,7 +2,7 @@
 Code for executing kinetic displacement models for PET data
 
 The file applyDisplacementModels.m serves as a wrapper, 
-and provides instructions on how to execute the displacement. 
+and provides instructions on how to execute the code. 
 
 The code has been tested on MATLAB 2014b, but it does not include 
 any snippets that require later versions of MATLAB.
